@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1631986335 source:e:\bus system\bus management system\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<conio.h>
+	"../conio2.h"
+
+1632206305 source:e:\bus system\bus management system\user panel.cpp
+	<stdio.h>
+	<fstream>
+	<conio.h>
+	<iostream>
+	<string.h>
+	"../conio2.h"
+	<iomanip>
+
+1632206305 source:e:\bus system\bus management system\admin panel.cpp
+	<stdio.h>
+	<fstream>
+	<conio.h>
+	<iostream>
+	<string.h>
+	<iomanip>
+	"../conio2.h"
+
+1619802895 source:e:\bus system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1619802794 e:\bus system\conio2.h
+	<conio.h>
+	<windows.h>
+
